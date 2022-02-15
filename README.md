@@ -7,3 +7,8 @@ This was our baseline model with a training length of 3 months:
 In increasing the training set we were able to increase the cumulative returns from our strategy. Pictured below are 6 and 9 month, respectively:
 ![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_6month.png)
 ![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_9month.png)
+
+In adjusting the SMA length used in our techncial analysis we saw various different results:
+![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_SMA1.png)
+![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_SMA2.png)
+![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_SMA3.png)

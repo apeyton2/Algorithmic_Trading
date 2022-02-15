@@ -12,3 +12,7 @@ In adjusting the SMA length used in our techncial analysis we saw various differ
 ![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_SMA1.png)
 ![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_SMA2.png)
 ![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/SVM_SMA3.png)
+Ultimately the best returns came from using SMAs of 3 and 200 days.
+
+Lastly we had hoped to integrate a different model for this project. The logistical regression model had not been very effective as seen below:
+![alt text](https://github.com/apeyton2/Algorithmic_Trading/blob/main/Resources/LR.png)
